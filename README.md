@@ -1,5 +1,5 @@
 # AVL-tree-benchmarks
 Performance benchmarks of AVL Trees compared to standard BSTs.
 
-<h3>AVL Tree Tutorial Medium article</h3>
-https://medium.com/@aksh0001/avl-trees-in-python-bc3d0aeb9150
+<h3>My Medium article tutorial:</h3>
+https://link.medium.com/sFLWWml8D1
